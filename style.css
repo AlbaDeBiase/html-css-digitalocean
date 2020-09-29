@@ -61,6 +61,7 @@ font-size: 12px;
 line-height: 160%;
 font-weight: bold;
 font-style: normal;
+display: inline;
 }
 
 .nav>li>a:focus,.nav>li>a:hover {
@@ -72,8 +73,9 @@ font-style: normal;
 .logo{
     height: 29px;
     width: 172px;
-    margin-top:10px;
-    margin-right: 10px;
+    margin-right: 50px;
+    margin-top: 17px;
+
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
@@ -81,13 +83,57 @@ font-style: normal;
     background-color: white;
 }
 
+#navbar-item{
+    color: #031b4f;
+    font-family: "Helvetica";
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+}
+
+#navbar-item:hover{
+color: #006aff;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
 
 
+.btn-default-prime{
+background-color: transparent;
+    border-color: #006aff;
+    color: #006aff;
+    font-family: 'Sailec-Bold','Helvetica','san-serif';
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 24px;
+}
 
+.btn-default-prime:hover{
+    background: hsl(215,100%,50%);
+    color: hsl(0,0%,100%);
+}
 
+.btn-default-second{
+    background-color: #006aff;
+    border-color: #006aff;
+    color: white;
+    font-family: 'Sailec-Bold','Helvetica','san-serif';
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 15px;
+    display: inline-block;
+}
 
-
-
+.btn-default-second:hover{
+    background-color: #006aff;
+    border-color: #006aff;
+    color: white;
+}
 
 @media screen and (max-width:420px) {
 

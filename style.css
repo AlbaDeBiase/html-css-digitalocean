@@ -170,15 +170,38 @@ background-color: transparent;
     }
 .check-box{
 background-color: white;
-height: 400px;
+height: 450px;
 width: 370px;
 margin-right: 50px;
-margin-top:20px;
+margin-top:70px;
+
+}
+
+#text, #email, #password {
+        width: 80%;
+        height: 48px;
+        border: 1px solid #e5e8ed;
+        box-sizing: border-box;
+        border-radius: 3px;
+        margin-bottom: 8px;
+        font-family: 'arial';
+        font-size: 16px;
+        padding: 16px;
+        color: #031b4e;
+        margin-left: 35px;
+        margin-top: 2px;
 }
 
 
+.h5-title-checkbox {
+    color: #031b4e;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 45px;
+    padding-top: 24px;
 
-
+}
 
 
 

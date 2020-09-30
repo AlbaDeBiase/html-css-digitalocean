@@ -91,6 +91,8 @@ display: inline;
     display: block;
 }
 
+
+
 #navbar-item:hover{
 color: #006aff;
 }
@@ -134,6 +136,15 @@ background-color: transparent;
     border-color: #006aff;
     color: white;
 }
+
+.jumbo {
+background-image: url("https://www.digitalocean.com/static/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg");
+background-size: cover;
+background-position: center;
+height: 600px;
+}
+
+
 
 @media screen and (max-width:420px) {
 

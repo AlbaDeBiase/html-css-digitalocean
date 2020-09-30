@@ -271,6 +271,7 @@ background-color: #1633ff;
 .logos {
     background-color: #f3f5f9;
     text-align: center;
+padding-bottom:50px;
 }
 
 .h6-logos {
@@ -302,7 +303,7 @@ p>a:hover {
 
 .deploy{
     height: 896px;
-padding-top: 107px;
+    padding-top: 107px;
 }
 .title-paragraph{
         color:#031b4e;
@@ -316,6 +317,7 @@ padding-top: 107px;
         color: #5b6987;
         font-family: 'arial';
         font-size: 20px;
+        font-weight: 100px;
         line-height: 150%;
         text-align: center;
 

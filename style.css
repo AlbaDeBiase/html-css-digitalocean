@@ -356,6 +356,46 @@ color: #031b4e;
 
 }
 
+.img-designed {
+width: 100%;
+padding-bottom: 40px;
+}
+
+.arrow-designed {
+width: 20%;
+vertical-align: middle;
+padding-top: 260px;
+}
+
+.arrow-left {
+text-align: left;
+}
+.arrow-right {
+text-align: right;
+}
+
+.css-13le88d {
+    opacity: 1;
+    background-color: white;
+    text-align: center;
+    border-radius: 100%;
+    border: 2px solid white;
+    width: 10px;
+    height: 10px;
+    font-size: 0;
+    line-height: 0;
+    padding: 3px;
+    cursor: pointer;
+    outline: 0;
+    margin: 0 6px;
+    background-color: transparent;
+    border: 2px solid #0069ff;
+}
+
+.css-13le88d:hover{
+background-color: #0069ff;
+color:#0069ff;
+}
 
 
 

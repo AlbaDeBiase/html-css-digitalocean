@@ -255,7 +255,6 @@ background-color: #1633ff;
 .btn-checkbox-third:hover{
     border-color: #006aff;
     font-weight: bold;
-    max-width: 870px;
     border-color:  #363636;
 
 }
@@ -271,7 +270,7 @@ background-color: #1633ff;
 .logos {
     background-color: #f3f5f9;
     text-align: center;
-padding-bottom:50px;
+    padding-bottom:50px;
 }
 
 .h6-logos {
@@ -333,6 +332,11 @@ p>a:hover {
 
 .header-top {
 display: none;
+}
+
+.check-box {
+width: 250px;
+
 }
 
 }

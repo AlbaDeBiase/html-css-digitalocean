@@ -449,6 +449,46 @@ padding-top: 80px;
 color: #0069ff;
 }
 
+
+.database{
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.city {
+    color: #fff;
+    font-size: 14px;
+    opacity: 0.6;
+}
+
+.link-tabella-blu {
+    color: #00d7d2;
+
+}
+
+.link-tabella-blu:hover {
+color: #1633ff;
+text-decoration: none;
+}
+
+.linea{
+border-bottom: 1px solid blue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:420px) {
 
 .header-top {
@@ -464,7 +504,7 @@ width: 250px;
 display: none;
 }
 
-}
+
 
 @media screen and (max-width:992px) {
 

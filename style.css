@@ -327,7 +327,7 @@ p>a:hover {
         color: #031b4e;
         font-weight: bold;
         padding-top: 10px;
-font-size: 20px;
+        font-size: 20px;
 }
 
 .text-paragrah-diploy {
@@ -338,6 +338,24 @@ font-size: 20px;
         font-style: normal;
         padding-bottom: 20px;
 }
+
+.menu-bottoni{
+text-decoration: none;
+border:none;
+list-style-type: none;
+color:#031b4e99;
+font-size: 18px;
+line-height: 3;
+border-left: 1px solid #031b4e99;
+padding-left: 16px;
+
+}
+.menu-bottoni:hover{
+border-left: 1px solid blue;
+color: #031b4e;
+
+}
+
 
 
 

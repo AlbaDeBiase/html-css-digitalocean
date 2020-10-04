@@ -129,6 +129,12 @@ color: #006aff;
     margin-right: 15px;
     display: inline-block;
 }
+.btn-default-second:hover{
+    background-color: #006aff;
+    border-color: #006aff;
+    color:white;
+    text-decoration: none;
+}
 
 
 .jumbo {
@@ -454,6 +460,8 @@ color: #0069ff;
     font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
+    color:white;
+
 }
 
 .city {
@@ -464,7 +472,6 @@ color: #0069ff;
 
 .link-tabella-blu {
     color: #00d7d2;
-
 }
 
 .link-tabella-blu:hover {
@@ -472,18 +479,12 @@ color: #1633ff;
 text-decoration: none;
 }
 
-.linea{
-border-bottom: 1px solid blue;
-
+.linea {
+border-bottom: 1px solid white;
+padding-bottom: 8px;
+padding-top: 8px;
+opacity: 0.8;
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -497,13 +498,27 @@ display: none;
 
 .check-box {
 width: 250px;
-
 }
 
 .arrow-designed {
 display: none;
 }
 
+.title-paragraph-deploy {
+text-align: center;
+}
+.text-paragrah-diploy {
+text-align: center;
+}
+.arrow-link {
+text-align: center;
+display: block;
+}
+.img-built {
+text-align:center;
+display: block;
+}
+}
 
 
 @media screen and (max-width:992px) {
@@ -514,4 +529,20 @@ display: none;
 
 .arrow-designed {
 display: none;
+}
+.title-paragraph-deploy {
+text-align: center;
+}
+
+.text-paragrah-diploy {
+text-align: center;
+}
+.arrow-link {
+text-align: center;
+display: block;
+}
+.img-built{
+text-align:center;
+display: block;
+}
 }

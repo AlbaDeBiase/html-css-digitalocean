@@ -538,7 +538,7 @@ color: #0069ff;
 
 .pallini{
     width: 900px;
-padding-top: 60px;
+    padding-top: 60px;
 
 
 }
@@ -575,6 +575,44 @@ padding-top: 60px;
         border-radius: 7px;
 }
 
+footer {
+height: 700px;
+background-color: #010e28;
+}
+
+.footer-link {
+color:white;
+float: left;
+padding-left: 30px;
+list-style: none;
+
+
+}
+.title-footer {
+font-size: 15px;
+list-style: none;
+padding-bottom: 10px;
+padding-top: 60px;
+}
+
+.fulist-footer{
+list-style: none;
+padding-bottom: 10px;
+}
+
+.list-footer{
+color:#ffffff80;
+
+}
+
+.list-footer:hover{
+color:white;
+text-decoration: none;
+}
+
+
+
+}
 @media screen and (max-width:420px) {
 
 .header-top {

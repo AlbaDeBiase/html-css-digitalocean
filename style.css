@@ -489,7 +489,7 @@ color: #0069ff;
 
 .citazione{
     width:900px;
-    background-color: #e6e2e2;
+    background-color: #f1efef;
     margin-top: 60px;
     text-align: center;
     order: 1px solid #f3f5f9;
@@ -544,7 +544,7 @@ color: #0069ff;
 }
 .get-started {
     background-image:url("https://prismic-io.s3.amazonaws.com/www-static/b4ba92a9-0956-484b-9a3f-68ef4d550fd4_bg-home-cta.svg");
-    height: 200px;
+
     padding-left: 20px;
 }
 
@@ -555,7 +555,8 @@ color: #0069ff;
     font-size: 36px;
     line-height: 110%;
     padding-top: 70px;
-    /* margin-left:50px; */
+    padding-bottom: 54px;
+    margin-left:100px;
 }
 
 .btn-create-account {
@@ -576,43 +577,70 @@ color: #0069ff;
 }
 
 footer {
-height: 700px;
-background-color: #010e28;
+        height: 550px;
+        background-color: #010e28;
 }
 
 .footer-link {
-color:white;
-float: left;
-padding-left: 30px;
-list-style: none;
+        color:white;
+        float: left;
+        padding-left: 30px;
+        list-style: none;
 
 
 }
 .title-footer {
-font-size: 15px;
-list-style: none;
-padding-bottom: 10px;
-padding-top: 60px;
+        font-size: 15px;
+        list-style: none;
+        padding-bottom: 10px;
+        padding-top: 60px;
 }
 
 .fulist-footer{
-list-style: none;
-padding-bottom: 10px;
+        list-style: none;
+        padding-bottom: 10px;
 }
 
 .list-footer{
-color:#ffffff80;
+        color:#ffffff80;
 
 }
 
 .list-footer:hover{
-color:white;
-text-decoration: none;
+        color:white;
+        text-decoration: none;
+}
+
+.copyright {
+        background-color: #010e28;
+        height: 150px;
+        padding-top: 46px;
+        padding-left: 55px;
+        border-top: 1px solid white;
+}
+
+.copy{
+        color: hsla(0,0%,100%,0.5);
+        font-family: 'Sailec-Regular','Helvetica','sans-serif';
+        font-size: 14px;
+        font-weight: 400;
+
+}
+
+.icon-footer {
+color: hsla(0,0%,100%,0.5);
+font-size: 25px;
+
+
+}
+
+.icon-footer:hover {
+color: white;
 }
 
 
 
-}
+
 @media screen and (max-width:420px) {
 
 .header-top {

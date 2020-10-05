@@ -490,7 +490,7 @@ color: #0069ff;
 }
 
 .citazione{
-    width:900px;
+    /* width:900px; */
     background-color: #f1efef;
     margin-top: 60px;
     text-align: center;
@@ -539,7 +539,7 @@ color: #0069ff;
 }
 
 .pallini{
-    width: 900px;
+    /* width: 900px; */
     padding-top: 60px;
 
 

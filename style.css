@@ -227,7 +227,7 @@ color: #006aff;
 .btn-checkbox-prime {
     display: inline-block;
     background-color: transparent;
-    border-color: 1px solid #006aff;
+    border: 1px solid #006aff;
     color: #006aff;
     font-family: 'Sailec-Bold','Helvetica','san-serif';
     font-size: 16px;
@@ -249,7 +249,7 @@ color: #006aff;
 .btn-checkbox-third{
     display: inline-block;
     background-color: transparent;
-    border-color: #006aff;
+    border:1px solid #006aff;
     color: #006aff;
     font-family: 'Sailec-Bold','Helvetica','san-serif';
     font-size: 16px;

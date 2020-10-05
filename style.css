@@ -88,6 +88,8 @@ display: inline;
     font-size: 14px;
     font-weight: bold;
     display: block;
+    opacity: 0.8;
+}
 }
 
 
@@ -612,7 +614,7 @@ footer {
 
 .copyright {
         background-color: #010e28;
-        /* height: 150px; */
+        height: 150px;
         padding-top: 46px;
         padding-left: 55px;
         border-top: 1px solid white;

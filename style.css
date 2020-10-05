@@ -427,7 +427,7 @@ p>a:hover {
 
 .tabella {
 background:#031b4e url(https://prismic-io.s3.amazonaws.com/www-static/bb563ec9-49ef-4ceb-8468-da84f1509fcc_bg-map-solid.svg);
-/* height: 800px; */
+height: 800px;
 color: white;
 margin-top: 120px;
 padding-top: 80px;
@@ -578,7 +578,7 @@ color: #0069ff;
 }
 
 footer {
-        /* height: 550px; */
+        height: 550px;
         background-color: #010e28;
 }
 
